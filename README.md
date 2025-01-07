@@ -1,4 +1,4 @@
-<img src="https://cdn.vectorstock.com/i/500p/66/01/dark-blue-wide-abstract-banner-with-glowing-vector-54386601.jpg" alt="Shofiqul Islam Banner">
+<img src="https://i.ibb.co.com/K0hSFtW/jhgfjg.jpg" alt="Shofiqul Islam Banner">
 
 # Hi 👋, I'm Shofiqul Islam
 ### Full Stack Developer
