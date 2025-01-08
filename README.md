@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co.com/K0hSFtW/jhgfjg.jpg" alt="Shofiqul Islam Banner">
 
 ### About Me
-Passionate Frontend Developer with expertise in building scalable web applications. I love turning complex problems into simple, beautiful, and intuitive solutions.
+"Frontend Developer specializing in crafting scalable and performance-driven web applications. I’m passionate about bridging design and functionality to create seamless, user-centric experiences, with a focus on modern tools"
 
 ### Current Activities
 - 🔭 Working on an E-commerce platform using React , Node.js
