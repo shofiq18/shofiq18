@@ -41,6 +41,10 @@
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
+  <a href="https://www.linkedin.com/in/md-shofiqul-islam-saad/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
+</a>
+
 </div>
 
 ###
