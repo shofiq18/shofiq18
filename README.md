@@ -1,57 +1,48 @@
-<img src="https://i.ibb.co.com/K0hSFtW/jhgfjg.jpg" alt="Shofiqul Islam Banner">
+# Hi there, I'm [Your Name] 👋
+
+![Banner](https://your-banner-image-link.com)
+
+## 🚀 Frontend Developer | Web Developer | Open Source Enthusiast
 
 ### About Me
-"Frontend Developer specializing in crafting scalable and performance-driven web applications. I’m passionate about bridging design and functionality to create seamless, user-centric experiences, with a focus on modern tools"
 
-### Current Activities
-- 🔭 Working on an E-commerce platform using React , Node.js
-- 🌱 Exploring Next.js 14 and TypeScript
-- 👯 Looking to collaborate on open source projects
-- 💬 Ask me about JavaScript, React, Node.js
+Hi! I'm [Your Name], a passionate Frontend Developer from Bangladesh 🇧🇩. I love building interactive and user-friendly web applications with modern technologies. Currently, I’m exploring **Next.js** and enhancing my backend skills with **Node.js & MongoDB**.
 
-### Skills & Technologies
+### 📌 What I'm Currently Up To:
+- 🔥 Exploring **Next.js 14** and server-side rendering.
+- 🚀 Building a **micro-task and earning platform** called **Piece Work**.
+- 💡 Improving my **full-stack development** skills.
+- 👨‍💻 Contributing to **open-source projects**.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
+---
 
-### Connect with me
+## 🛠️ Tech Stack & Tools
 
-<div align="left">
-  <a href="https://www.facebook.com/mdshafiqulislam.shafiq.9659/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
-  </a>
-  <a href="https://web.whatsapp.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/md-shofiqul-islam-saad/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
-</a>
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
 
-</div>
+### Backend & Database
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 
-###
+### DevOps & Tools
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 
-### GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=shofiq18&show_icons=true&theme=radical" alt="shofiq18" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shofiq18&theme=radical" alt="shofiq18" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shofiq18&layout=compact&theme=radical" alt="shofiq18" />
-</p>
+---
+
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/yourusername)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=react)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=react)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=reac
