@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Hi there! I'm [Your Name], a creative and self-motivated **Frontend Developer** from Bangladesh 🇧🇩. I specialize in crafting **pixel-perfect, user-friendly interfaces** and love bringing ideas to life with modern web technologies. My goal is to continuously improve my skills and contribute to the developer community.</p>
+<p align="left">Hi there! I'm Md. Shofiqul Islam, a creative and self-motivated **Frontend Developer** from Bangladesh. I specialize in crafting **pixel-perfect, user-friendly interfaces** and love bringing ideas to life with modern web technologies. My goal is to continuously improve my skills and contribute to the developer community.</p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🚀 Building an innovative **micro-task platform** called **Piece Work**.<br> 💻 Exploring **Next.js 14** and **server-side rendering**.<br> 🎨 Enhancing UI/UX skills with **Framer Motion & Tailwind CSS**.<br> 💡 Actively contributing to **open-source projects**.</p>
+<p align="left">🚀 Building an innovative **micro-task platform** called **Piece Work**.<br> 💻 Exploring **Next.js 15** and **server-side rendering**.<br> 🎨 Enhancing UI/UX skills with **Framer Motion & Tailwind CSS**.<br> 💡 Actively contributing to **open-source projects**.</p>
 
 ###
 
@@ -75,10 +75,15 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/md-shofiqul-islam-saad/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <a href="https://github.com/shofiq18" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
+  </a>
 </div>
+
 
 ###
 
