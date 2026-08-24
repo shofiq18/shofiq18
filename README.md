@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://ibb.co.com/m55LpjNM"  />
+  <img height="300" src="https://i.ibb.co.com/Dfwjzszr/WEB-Full-Stack-Developer.jpg"  />
 </div>
 
 ###
