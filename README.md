@@ -10,9 +10,9 @@
 
 <p align="left">Hi! I’m Shofiqul Islam, a passionate Full Stack Developer who enjoys building modern, scalable, and user-friendly web applications.
 
-💻 Frontend: React, Next.js, JavaScript, TypeScript, Tailwind CSS
-⚙️ Backend: Node.js, Express.js, REST APIs
-🗄️ Database: MongoDB, PostgreSQL, Prisma
+💻 Frontend: React, Next.js, JavaScript, TypeScript, Tailwind CSS.<br>
+⚙️ Backend: Node.js, Express.js, REST APIs.<br>
+🗄️ Database: MongoDB, PostgreSQL, Prisma.<br>
 🚀 Focus: Full-Stack Development, Performance & Clean Code
 
 I enjoy turning ideas into real-world applications and continuously learning new technologies to become a better developer.
