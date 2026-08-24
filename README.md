@@ -4,11 +4,20 @@
 
 ###
 
-<h2 align="center">About Me</h2>
+<h2 align="center">👋 About Me</h2>
 
 ###
 
-<p align="left">Hi there! I'm Md. Shofiqul Islam, a creative and self-motivated **Frontend Developer** from Bangladesh. I specialize in crafting **pixel-perfect, user-friendly interfaces** and love bringing ideas to life with modern web technologies. My goal is to continuously improve my skills and contribute to the developer community.</p>
+<p align="left">Hi! I’m Shofiqul Islam, a passionate Full Stack Developer who enjoys building modern, scalable, and user-friendly web applications.
+
+💻 Frontend: React, Next.js, JavaScript, TypeScript, Tailwind CSS
+⚙️ Backend: Node.js, Express.js, REST APIs
+🗄️ Database: MongoDB, PostgreSQL, Prisma
+🚀 Focus: Full-Stack Development, Performance & Clean Code
+
+I enjoy turning ideas into real-world applications and continuously learning new technologies to become a better developer.
+
+📫 Let’s connect and build something amazing together!</p>
 
 ###
 
@@ -16,7 +25,7 @@
 
 ###
 
-<p align="left">🚀 Building an innovative **micro-task platform** called **Piece Work**.<br> 💻 Exploring **Next.js 15** and **server-side rendering**.<br> 🎨 Enhancing UI/UX skills with **Framer Motion & Tailwind CSS**.<br> 💡 Actively contributing to **open-source projects**.</p>
+<p align="left">🚀 Building and improving full-stack web applications with modern technologies.<br> 💻 Exploring Next.js, TypeScript, Node.js, Express.js, and REST APIs.<br> 🗄️ Working with MongoDB, PostgreSQL, and Prisma for scalable database solutions.<br> 📚 Continuously learning modern full-stack development practices and improving my problem-solving skills.</p>
 
 ###
 
